@@ -1,6 +1,6 @@
 
 ## Strabriviosforza Recipes
-This is a simple Flutter app to get recipies from an api and process them them in buying lists.
+This is a simple Flutter app to get recipies from an api and process them in buying lists.
 The release version can be installed from here https://play.google.com/store/apps/details?id=com.costelasleontin.recipe_finder.
 
 ## Getting Started
